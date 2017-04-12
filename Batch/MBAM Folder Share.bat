@@ -1,4 +1,4 @@
-
+:: Shares Malwarebytes folders for scan and detection results, for scripted retrieval, parsing, and reporting
 
 
 net share MBAMScanResults="C:\ProgramData\Malwarebytes\MBAMService\ScanResults" /GRANT:Everyone,FULL
