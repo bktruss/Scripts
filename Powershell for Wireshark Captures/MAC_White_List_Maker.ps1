@@ -1,6 +1,6 @@
 ﻿#########################################
 # Analytics - MAC White List Maker v1.0.0
-# Author: Brian Kell
+# Author: BK
 # Date: 12/4/2015
 ##########################################
 
