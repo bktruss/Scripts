@@ -1,7 +1,7 @@
 ﻿############################################
 # Analytics - Clean Syslog File v1.0.0
 # Connections Only - UTC Time -> Src -> Dst
-# Author: Brian Kell
+# Author: BK
 # Date: 2/15/2016
 # Put script in same directory as logs
 # Used with Sonicwall logs:
