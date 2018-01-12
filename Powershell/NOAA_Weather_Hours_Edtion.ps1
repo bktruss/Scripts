@@ -6,7 +6,7 @@
 # Date: 12/13/17                                 #
 # Powershellv3                                   #
 #                                                #
-# Find the your home states county list at       #
+# Find your home states county list at           #
 # https://alerts.weather.gov/                    #
 # Then find your county code and replace the     #
 # first variable below with that county code     #
